@@ -1,9 +1,13 @@
 # Ronak Gorak — Portfolio
 
-Personal portfolio website for Ronak Gorak.
+Personal portfolio website for Ronak Gorak, a third-year B.Tech Computer Science and Engineering student.
 
-## Run locally
-Open `index.html` in a browser.
+## Featured projects
+- Roll Call — Smart Attendance Management System
+- Sales Memory Agent — Hindsight × CascadeFlow Hackathon
+
+## Tech
+HTML, CSS and JavaScript.
 
 ## Deploy
-Push these files to a GitHub repository and enable GitHub Pages from **Settings → Pages → Deploy from branch → main / root**.
+Configured for GitHub Pages from the `main` branch and `/` root.
